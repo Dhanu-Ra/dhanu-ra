@@ -1,4 +1,6 @@
 ## Hi there 👋
+Its my resume pleace do check
+
 
 <!--
 **Dhanu-Ra/dhanu-ra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
